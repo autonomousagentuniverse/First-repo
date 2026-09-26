@@ -1,0 +1,1 @@
+Temporary GitHub connector read/write permission test.
